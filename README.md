@@ -1,143 +1,175 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Tasnim El Mehrabi — AI Engineering and Full-Stack Development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:190019,22:2B124C,48:522B5B,72:854F6C,100:DFB6B2&text=TASNIM%20ELMEHRABI&fontSize=46&fontColor=FBE4D8&fontAlignY=38&desc=AI%20ENGINEERING%20%20%E2%9C%A6%20%20FULL-STACK%20DEVELOPMENT%20%20%E2%9C%A6%20%20INNOVATION&descSize=12&descAlignY=61&animation=twinkling" alt="Tasnim Elmehrabi"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=DFB6B2&center=true&vCenter=true&width=720&lines=Dream+it.+Code+it.+Build+it.;Building+intelligent+digital+experiences.;Exploring+AI%2C+LLMs+%26+Big+Data.;Turning+ideas+into+real+projects+%E2%9C%A8" alt="Animated tagline"/>
 
 <br/>
 
-<a href="https://github.com/tass027">
-  <img src="https://img.shields.io/badge/GitHub-tass027-522B5B?style=flat-square&logo=github&logoColor=FBE4D8" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/tass027?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-repositories-854F6C?style=flat-square" alt="Explore repositories"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=tass027&style=flat-square&color=854F6C&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-**AI Engineering · Software Development · Intelligent Applications**
+<a href="https://github.com/tass027"><img src="https://img.shields.io/badge/GitHub- t a s s 0 2 7-2B124C?style=for-the-badge&logo=github&logoColor=FBE4D8" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=tass027&style=for-the-badge&color=854F6C&label=VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
-
-## About
 
 <table>
-  <tr>
-    <td width="72%" valign="top">
+<tr>
+<td width="66%" valign="middle">
 
-I’m **Tasnim El Mehrabi**, a Computer Science graduate in **Software Engineering and Information Systems** from ISI Tunis El Manar.
+## ✦ About Me
 
-I’m interested in building practical software products where full-stack development and artificial intelligence come together. I enjoy exploring an idea, understanding the problem behind it, and turning it into a working application.
+Hi! I'm **Tasnim Elmehrabi** — an AI Engineering student who loves turning curious ideas into useful digital experiences.
 
-**Areas I work with**
-- Artificial intelligence, machine learning and local language models
-- Full-stack web and mobile application development
-- Data engineering and Big Data
-- Product design, collaboration and technical problem-solving
+I enjoy the space where **software engineering, artificial intelligence and creativity** meet. From building full-stack applications to experimenting with local language models, I'm always exploring what's possible.
 
-**A principle I work by:** Build with purpose. Learn continuously. Create impact.
+- ✧ AI engineering, machine learning & local LLMs
+- ✧ Full-stack and mobile application development
+- ✧ Big Data and intelligent solutions
+- ✧ Product thinking, teamwork & leadership
+- ✧ Learning by building — one project at a time
 
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="assets/tasnim-avatar.png" width="190" alt="Illustrated portrait of Tasnim El Mehrabi"/>
-      <br/><br/>
-      **TASNIM EL MEHRABI**
-      <br/>
-      <sub>Software Engineering · AI</sub>
-    </td>
-  </tr>
+> **Current mindset:** Build with purpose. Learn continuously. Create impact.
+
+</td>
+<td width="34%" align="center" valign="middle">
+
+<img src="./assets/tasnim-avatar.png" width="210" alt="Illustrated avatar inspired by Tasnim"/>
+
+**TASNIM ELMEHRABI**
+
+<sub>AI Engineer in progress ✦</sub>
+
+<sub>Dream it · Code it · Build it</sub>
+
+</td>
+</tr>
 </table>
 
----
+<div align="center">
 
-## Technical Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2B124C,50:DFB6B2,100:854F6C&section=header" width="85%" alt=""/>
+
+</div>
+
+## ✧ My Tech Universe
 
 <div align="center">
 
-| Languages | Web and Mobile | Data and Tools |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Python, Java, JavaScript, TypeScript, C and C++"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,nodejs,express,spring,androidstudio&theme=dark" alt="React, Next.js, Angular, HTML, CSS, Tailwind, Node.js, Express, Spring and Android Studio"/> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux,postman&theme=dark" alt="MongoDB, MySQL, Git, GitHub, Docker, Linux and Postman"/> |
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⌘ Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c&theme=dark" alt="Programming languages"/>
+
+</td>
+<td align="center" width="50%">
+
+**✦ Frontend · Backend · Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,nodejs,express,spring,django,androidstudio&theme=dark" alt="Development stack"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**◈ Data · Tools · Platforms**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux,postman&theme=dark" alt="Data and tools"/>
+
+</td>
+<td align="center">
+
+**✧ AI · Big Data**
+
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-854F6C?style=for-the-badge&logo=ollama&logoColor=FBE4D8" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Mistral-LLM-522B5B?style=for-the-badge" alt="Mistral"/>
+<img src="https://img.shields.io/badge/LLaMA%203.2-LLM-2B124C?style=for-the-badge" alt="LLaMA"/>
+<img src="https://img.shields.io/badge/Hadoop-Big%20Data-854F6C?style=for-the-badge" alt="Hadoop"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-**AI and Big Data**
+---
+
+## ✦ Things I've Built
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Ollama-Local_LLMs-522B5B?style=flat-square" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Mistral-Language_Models-854F6C?style=flat-square" alt="Mistral"/>
-<img src="https://img.shields.io/badge/LLaMA_3.2-Language_Models-522B5B?style=flat-square" alt="LLaMA 3.2"/>
-<img src="https://img.shields.io/badge/Hadoop-Big_Data-854F6C?style=flat-square" alt="Hadoop"/>
-<img src="https://img.shields.io/badge/LangGraph-AI_Workflows-522B5B?style=flat-square" alt="LangGraph"/>
+<a href="https://github.com/tass027/ai-virtual-mouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=ai-virtual-mouse&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="AI Virtual Mouse"/></a>
+<a href="https://github.com/tass027/study-with-bee"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=study-with-bee&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="Study with Bee"/></a>
+<a href="https://github.com/tass027/planify-tn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=planify-tn&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="Planify.tn"/></a>
+<a href="https://github.com/tass027/speech-to-text-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=speech-to-text-ai&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="Speech to Text AI"/></a>
+<a href="https://github.com/tass027/ai-resume-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=ai-resume-builder&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="AI Resume Builder"/></a>
+<a href="https://github.com/tass027/medianet-incubator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tass027&repo=medianet-incubator&theme=transparent&hide_border=true&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2" alt="MEDIANET Incubator"/></a>
 
 </div>
 
----
-
-## Selected Projects
-
-| Project | Overview | Repository |
-|---|---|:---:|
-| **AI Virtual Mouse** | Hand-gesture-based mouse control using computer vision. | [View](https://github.com/tass027/ai-virtual-mouse) |
-| **Study with Bee** | Android study companion with productivity tools and AI-assisted learning features. | [View](https://github.com/tass027/study-with-bee) |
-| **Planify.tn** | Personalized recommendations for outings and gifts. | [View](https://github.com/tass027/planify-tn) |
-| **Speech-to-Text AI** | Audio transcription and text processing, including summarization and translation. | [View](https://github.com/tass027/speech-to-text-ai) |
-| **AI Resume Builder** | AI-assisted CV creation and optimization. | [View](https://github.com/tass027/ai-resume-builder) |
-| **MEDIANET Incubator** | Startup management platform with intelligent scoring, matching, report generation and chatbot features. | [View](https://github.com/tass027/medianet-incubator) |
-
-<div align="right">
-  <a href="https://github.com/tass027?tab=repositories">See all repositories →</a>
-</div>
+| Project | A little story |
+|:--|:--|
+| [🖱️ AI Virtual Mouse](https://github.com/tass027/ai-virtual-mouse) | Hand-gesture-powered mouse control |
+| [🐝 Study with Bee](https://github.com/tass027/study-with-bee) | An Android companion for study routines and productivity |
+| [✦ Planify.tn](https://github.com/tass027/planify-tn) | Personalized outing and gift recommendations |
+| [🎙️ Speech-to-Text AI](https://github.com/tass027/speech-to-text-ai) | AI transcription and text processing |
+| [📄 AI Resume Builder](https://github.com/tass027/ai-resume-builder) | AI-assisted CV creation and optimization |
+| [🚀 MEDIANET Incubator](https://github.com/tass027/medianet-incubator) | Startup management and follow-up platform |
 
 ---
 
-## GitHub Activity
+## ✦ GitHub Constellation
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tass027&show_icons=true&hide_border=true&bg_color=190019&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass027&layout=compact&hide_border=true&bg_color=190019&title_color=DFB6B2&text_color=FBE4D8" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tass027&show_icons=true&hide_border=true&bg_color=190019&title_color=DFB6B2&text_color=FBE4D8&icon_color=DFB6B2&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tass027&layout=compact&hide_border=true&bg_color=190019&title_color=DFB6B2&text_color=FBE4D8" alt="Top languages"/>
 
-<br/>
+<img width="72%" src="https://streak-stats.demolab.com?user=tass027&theme=transparent&hide_border=true&background=190019&ring=854F6C&fire=DFB6B2&currStreakLabel=FBE4D8&sideLabels=DFB6B2&dates=DFB6B2" alt="Contribution streak"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=tass027&theme=transparent&hide_border=true&background=190019&ring=854F6C&fire=DFB6B2&currStreakLabel=FBE4D8&sideLabels=DFB6B2&dates=DFB6B2" alt="GitHub contribution streak"/>
+</div>
 
-<br/>
+## ✧ Contribution Garden
 
-<img src="https://raw.githubusercontent.com/tass027/tass027/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution activity animation"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tass027/tass027/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+<sub>Every contribution is a little step forward ✦</sub>
 
 </div>
 
 ---
 
-## Beyond Development
+## ✦ Beyond the Code
+
+<div align="center">
 
 **Leadership · Creativity · Collaboration · Continuous Learning**
 
-I served as **Vice President of Human Resources at Enactus ISI**. This experience strengthened my interest in teamwork, communication and bringing people together around shared goals.
+Vice President of Human Resources at **Enactus ISI**.
 
-I’m interested in the ways technology and entrepreneurship can create useful, lasting impact.
+I enjoy bringing people together, exchanging ideas and exploring how technology and entrepreneurship can create meaningful impact.
 
----
+</div>
 
-## Contact
+## ✧ Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/tass027">
-  <img src="https://img.shields.io/badge/GitHub-tass027-522B5B?style=for-the-badge&logo=github&logoColor=FBE4D8" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-854F6C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8" alt="LinkedIn"/>
-</a>
+<a href="https://github.com/tass027"><img src="https://img.shields.io/badge/GitHub-190019?style=for-the-badge&logo=github&logoColor=FBE4D8" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2B124C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8" alt="LinkedIn"/></a>
 
-<br/><br/>
+<br/>
 
-*Have an interesting idea? Let’s build something meaningful.*
+*Have an interesting idea? Let's build something meaningful. ♡*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:190019,25:2B124C,55:522B5B,80:854F6C,100:DFB6B2" width="100%" alt="Decorative plum and rose footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:190019,25:2B124C,55:522B5B,80:854F6C,100:DFB6B2" alt="Purple pink animated footer"/>
 
-<sub>Designed with curiosity and a little bit of magic · © Tasnim El Mehrabi</sub>
+<sub>Designed with curiosity, creativity & a little bit of magic · © Tasnim Elmehrabi</sub>
 
 </div>
