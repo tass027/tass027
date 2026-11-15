@@ -8,7 +8,7 @@
 <circle cx="46" cy="52" r="26" fill="#522B5B" opacity=".7"><animate attributeName="opacity" values=".5;.9;.5" dur="3s" repeatCount="indefinite"/></circle>
 <text x="46" y="61" text-anchor="middle" font-size="26">📄</text>
 <text x="86" y="44" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="17" fill="#FBE4D8">AI Resume Builder</text>
-<text x="86" y="66" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#DFB6B2">Création et optimisation de CV avec l’IA</text>
-<text x="24" y="108" font-family="Consolas,monospace" font-size="11" fill="#854F6C">AI · Web</text>
-<text x="296" y="108" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#DFB6B2">Voir le projet →<animate attributeName="opacity" values=".6;1;.6" dur="2.4s" repeatCount="indefinite"/></text>
+<text x="86" y="66" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#DFB6B2">AI-assisted resume builder</text>
+<text x="24" y="108" font-family="Consolas,monospace" font-size="11" fill="#854F6C">React · JavaScript</text>
+<text x="296" y="108" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#DFB6B2">View project →<animate attributeName="opacity" values=".6;1;.6" dur="2.4s" repeatCount="indefinite"/></text>
 </svg>

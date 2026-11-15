@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Currently">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190019"/><stop offset=".5" stop-color="#2B124C"/><stop offset="1" stop-color="#522B5B"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#854F6C"/><stop offset="1" stop-color="#DFB6B2"/></linearGradient></defs>
+<rect width="1000" height="150" rx="16" fill="url(#bg)" stroke="#854F6C" stroke-opacity=".7"/><rect width="1000" height="5" rx="2.5" fill="url(#ac)"/>
+<g transform="translate(36,34)"><circle cx="6" cy="6" r="5" fill="#34d399"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="22" y="11" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#DFB6B2">CURRENTLY</text></g>
+<g transform="translate(36,66)"><circle cx="18" cy="18" r="18" fill="#854F6C" fill-opacity=".3" stroke="#DFB6B2" stroke-opacity=".6"/>
+<path d="M18,6 Q27,14 25,24 L18,30 L11,24 Q9,14 18,6Z" fill="none" stroke="#FBE4D8" stroke-width="2" stroke-linejoin="round"/><circle cx="18" cy="15" r="2.6" fill="#DFB6B2"/>
+<text x="52" y="16" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#FBE4D8">Final-year project (PFE) at MEDIANET</text>
+<text x="52" y="36" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#DFB6B2">Building an AI-powered incubation management platform</text></g>
+<g transform="translate(540,66)"><circle cx="18" cy="18" r="18" fill="#854F6C" fill-opacity=".3" stroke="#DFB6B2" stroke-opacity=".6"/>
+<rect x="9" y="10" width="18" height="16" rx="4" fill="none" stroke="#FBE4D8" stroke-width="2"/><circle cx="14.5" cy="18" r="1.8" fill="#DFB6B2"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="21.5" cy="18" r="1.8" fill="#DFB6B2"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="52" y="16" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#FBE4D8">Exploring local LLMs</text>
+<text x="52" y="36" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#DFB6B2">Experiments with Ollama, Mistral and LLaMA</text></g>
+</svg>
