@@ -125,6 +125,7 @@
 <div align="center">
 
 <b>Leadership · Creativity · Collaboration · Continuous Learning</b>
+
 <i>I enjoy bringing people together, exchanging ideas and exploring how technology and entrepreneurship can create meaningful impact.</i>💜
 
 
