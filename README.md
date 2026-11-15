@@ -137,7 +137,7 @@
 
 <a href="https://github.com/tass027"><img src="https://img.shields.io/badge/GitHub-190019?style=for-the-badge&logo=github&logoColor=FBE4D8" alt="GitHub"/></a>
 <!-- TO COMPLETE: replace VOTRE-PROFIL with your real LinkedIn username -->
-<a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-2B124C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/VOTRE-PROFIL](https://www.linkedin.com/in/tasnim-mehrabi-9bb6372b3/"><img src="https://img.shields.io/badge/LinkedIn-2B124C?style=for-the-badge&logo=linkedin&logoColor=FBE4D8" alt="LinkedIn"/></a>
 
 <br/>
 
